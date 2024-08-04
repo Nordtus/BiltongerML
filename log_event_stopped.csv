@@ -1,0 +1,13 @@
+MAC,Unix_time_Stamp,Date,Temp,Temp_sym,Humidity,Humidity_sym,Pressure,Pressure_sym,IDs_1,ID_1,Weight_1,Wt_sym_1,IDs_2,ID_2,Weight_2,Wt_sym_2,IDs_3,ID_3,Weight_3,Wt_sym_3,IDs_4,ID_4,Weight_4,Wt_sym_4,IDs_5,ID_5,Weight_5,Wt_sym_5
+7C:DF:A1:E0:91:AC,1675675800,2023-02-06T09:10:00Z,18.8,C,25.9,%,98.905,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1676462400,2023-02-15T12:00:00Z,19.0,C,21.9,%,99.049,hPaLog event stopped.,id,1,0,g,id,2,3,g,id,3,2,g,id,4,-2,g,id,5,1,g
+6C:DF:A1:E0:91:AC,1679995435,2023-03-28T09:13:56Z,19.4,C,27.1,%,98.777,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+6C:DF:A1:E0:91:AC,1680989399,2023-04-08T21:30:00Z,18.4,C,22.1,%,98.951,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1683630882,2023-05-09T11:14:42Z,21.3,C,27.4,%,96.955,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1686340800,2023-06-09T19:45:00Z,22.1,C,35.6,%,98.176,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1688986800,2023-07-10T11:05:00Z,25.9,C,43.0,%,99.518,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1707848991,2024-02-13T18:29:51Z,18.4,C,24.5,%,97.427,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1709807955,2024-03-07T10:39:15Z,19.1,C,28.6,%,99.844,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+8C:DF:A1:E0:91:AC,1712145601,2024-04-03T12:05:00Z,21.1,C,27.9,%,99.103,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1715797800,2024-05-15T18:15:00Z,21.2,C,31.4,%,98.75,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1720027800,2024-07-03T17:15:00Z,24.5,C,43.4,%,99.591,hPaLog event stopped.,,,,,,,,,,,,,,,,,,,,
