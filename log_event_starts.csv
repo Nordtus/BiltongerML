@@ -12,3 +12,6 @@ MAC,Unix_time_Stamp,Date,Temp,Temp_sym,Humidity,Humidity_sym,Pressure,Pressure_s
 7C:DF:A1:E0:91:AC,1713809712,2024-04-22T18:15:12Z,21.2,C,28.6,%,97.87,hPaLog event started.,,,,,,,,,,,,,,,,,,,,
 7C:DF:A1:E0:91:AC,1716624450,2024-05-25T08:07:30Z,22.8,C,34.4,%,97.686,hPaLog event started.,,,,,,,,,,,,,,,,,,,,
 7C:DF:A1:E0:91:AC,1720697275,2024-07-11T11:27:55Z,26.2,C,49.5,%,98.907,hPaLog event started.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1723281379,2024-08-10T09:16:19Z,25.4,C,46.6,%,98.657,hPaLog event started.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1728416993,2024-10-08T19:49:53Z,22.3,C,37.1,%,99.241,hPaLog event started.,,,,,,,,,,,,,,,,,,,,
+7C:DF:A1:E0:91:AC,1729609439,2024-10-22T15:03:59Z,21.5,C,35.2,%,99.669,hPaLog event started.,,,,,,,,,,,,,,,,,,,,
