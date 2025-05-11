@@ -42,3 +42,17 @@ The goal is to predict curing time using current temperature, humidity, and thre
 *Model output shown as a 3D heatmap using humidity and temperature as inputs.*
 
 ---
+
+## License
+
+This work is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
+
+You are free to:
+- **Share** — copy and redistribute the material in any medium or format  
+- **Adapt** — remix, transform, and build upon the material  
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit to [Nordtus.com](https://nordtus.com), provide a link to the license, and indicate if changes were made.  
+- **NonCommercial** — You may not use the material for commercial purposes.  
+- **Redistribution** — You may share this work, with attribution, but not for commercial gain.
+
